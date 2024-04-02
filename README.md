@@ -10,7 +10,5 @@ Esse projeto foi proposto pela  [Dio](https://web.dio.me/home) no curso de Forma
 
 ## Materias usados 🖊️📓
 
-[Power BI]([https://colab.research.google.com/](https://powerbi.microsoft.com/pt-br/landing/free-account/?ef_id=_k_Cj0KCQjw2a6wBhCVARIsABPeH1vLUPDmUWYZButc3ut4SZ1bTuVntCYP_LU207It20qJeKvvf6m2q70aAiWUEALw_wcB_k_&OCID=AIDcmmk4cy2ahx_SEM__k_Cj0KCQjw2a6wBhCVARIsABPeH1vLUPDmUWYZButc3ut4SZ1bTuVntCYP_LU207It20qJeKvvf6m2q70aAiWUEALw_wcB_k_&gad_source=1&gclid=Cj0KCQjw2a6wBhCVARIsABPeH1vLUPDmUWYZButc3ut4SZ1bTuVntCYP_LU207It20qJeKvvf6m2q70aAiWUEALw_wcB)) - Software de business intelligence
+[Power BI](https://colab.research.google.com/](https://powerbi.microsoft.com/pt-br/landing/free-account/?ef_id=_k_Cj0KCQjw2a6wBhCVARIsABPeH1vLUPDmUWYZButc3ut4SZ1bTuVntCYP_LU207It20qJeKvvf6m2q70aAiWUEALw_wcB_k_&OCID=AIDcmmk4cy2ahx_SEM__k_Cj0KCQjw2a6wBhCVARIsABPeH1vLUPDmUWYZButc3ut4SZ1bTuVntCYP_LU207It20qJeKvvf6m2q70aAiWUEALw_wcB_k_&gad_source=1&gclid=Cj0KCQjw2a6wBhCVARIsABPeH1vLUPDmUWYZButc3ut4SZ1bTuVntCYP_LU207It20qJeKvvf6m2q70aAiWUEALw_wcB)) - Software de business intelligence
 
-
-[Dataset](https://www.kaggle.com/datasets/adaoduque/campeonato-brasileiro-de-futebol) - Dataset usado na analise
